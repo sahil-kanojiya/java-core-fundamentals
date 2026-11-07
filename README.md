@@ -1,2 +1,6 @@
-hello world
-hello world1
+# Demo 1
+
+Java prototyping and experimentation scratchpad repository.
+
+## Overview
+A lightweight project environment for testing language features, concurrency constructs, and utility experiments.
