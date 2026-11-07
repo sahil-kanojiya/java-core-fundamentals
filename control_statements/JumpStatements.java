@@ -7,7 +7,7 @@
  *
  * @author tagline
  */
-public class jumpStatements {
+public class JumpStatements {
 
     public static void main(String[] args) {
 

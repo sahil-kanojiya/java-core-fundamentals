@@ -9,7 +9,7 @@ import java.util.List;
  *
  * @author tagline
  */
-public class forEachLoop {
+public class ForEachLoop {
 
     public static void main(String[] args) {
 

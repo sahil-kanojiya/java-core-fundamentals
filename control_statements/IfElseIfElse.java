@@ -7,16 +7,16 @@
  *
  * @author tagline
  */
-public class ifElse {
+public class IfElseIfElse {
 
     public static void main(String[] args) {
 
-        // if else
-        // Scanner scanner = new Scanner(System.in);
-        // int age = scanner.nextInt();
         int age = 10;
+        // if else   else if 
         if (age > 18) {
             System.err.println("you can drive");
+        } else if (age == 18) {
+            System.err.println("your age is just 18. you can start driving this year.");
         } else {
             System.err.println("you can drive");
         }
