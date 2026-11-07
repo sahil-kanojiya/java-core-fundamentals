@@ -1,4 +1,4 @@
-# Demo 1
+# Java Core Fundamentals
 
 Java prototyping and experimentation scratchpad repository.
 
